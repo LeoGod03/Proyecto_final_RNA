@@ -1,0 +1,20 @@
+{
+    "top_1":{
+        "neuronas": 512,
+        "inicialización": "xavier",
+        "vectorizador": "countvectorizer",
+        "terminos": "(1,1)",
+        "preprocesamiento": "normalización + stop_words",
+        "learning_rate": 0.01,
+        "batch_size": 64
+    },
+    "top_2":{
+        "neuronas": 64,
+        "inicialización": "xavier",
+        "vectorizador": "countvectorizer",
+        "terminos": "(1,2)",
+        "preprocesamiento": "normalización + stop_words",
+        "learning_rate": 0.01,
+        "batch_size": 64
+    }
+}
