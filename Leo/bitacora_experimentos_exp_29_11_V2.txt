@@ -1,0 +1,6 @@
+[2025-11-29 01:07:55] Experimento #1: Config={'capas': [512, 256, 128], 'batch_size': 48, 'learning_rate': 0.002, 'patience': 40, 'epochs': 256, 'factor_balance': 0.75, 'f1_score_best': 0.8126247515091642}
+[2025-11-29 01:12:10] Experimento #1: Config={'capas': [512, 256, 128], 'batch_size': 48, 'learning_rate': 0.0002, 'patience': 40, 'epochs': 256, 'factor_balance': 0.75, 'f1_score_best': 0.818790910815973}
+[2025-11-29 01:15:25] Experimento #1: Config={'capas': [512, 256, 128], 'batch_size': 48, 'learning_rate': 0.0002, 'patience': 40, 'epochs': 256, 'factor_balance': 1.75, 'f1_score_best': 0.8096911140389401}
+[2025-11-29 01:19:01] Experimento #1: Config={'capas': [512, 256, 128], 'batch_size': 48, 'learning_rate': 0.0002, 'patience': 40, 'epochs': 256, 'factor_balance': 1.5, 'f1_score_best': 0.8116417681086243}
+[2025-11-29 01:20:10] Experimento #1: Config={'capas': [512, 256, 128], 'batch_size': 48, 'learning_rate': 0.002, 'patience': 40, 'epochs': 256, 'factor_balance': 0.75, 'f1_score_best': 0.8087068269367541}
+[2025-11-29 01:21:15] Experimento #1: Config={'capas': [512, 256, 512], 'batch_size': 48, 'learning_rate': 0.0002, 'patience': 40, 'epochs': 256, 'factor_balance': 0.75, 'f1_score_best': 0.8074414646914738}

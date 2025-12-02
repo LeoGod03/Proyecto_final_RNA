@@ -1,0 +1,17 @@
+[2025-11-22 11:19:34] Experimento #1: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 0.5, 'f1_score_best': 0.806985715775206}
+[2025-11-22 11:32:28] Experimento #2: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 0.75, 'f1_score_best': 0.8116557734204792}
+[2025-11-22 11:49:38] Experimento #3: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 0.8, 'f1_score_best': 0.8141826786988078}
+[2025-11-22 11:59:28] Experimento #4: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 1, 'f1_score_best': 0.8042033920264302}
+[2025-11-22 12:11:34] Experimento #5: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 1.25, 'f1_score_best': 0.7992976882057488}
+[2025-11-22 12:21:39] Experimento #6: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 1.5, 'f1_score_best': 0.7978751865568514}
+[2025-11-22 12:29:42] Experimento #7: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 1.75, 'f1_score_best': 0.7857503580944853}
+[2025-11-22 12:42:15] Experimento #8: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.01, 'patience': 40, 'epochs': 256, 'factor_balance': 1.85, 'f1_score_best': 0.7841560309231608}
+[2025-11-22 13:07:09] Experimento #9: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 0.5, 'f1_score_best': 0.8021404542789452}
+[2025-11-22 13:24:39] Experimento #10: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 0.75, 'f1_score_best': 0.8050275620128245}
+[2025-11-22 13:42:18] Experimento #11: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 0.8, 'f1_score_best': 0.7994926433282598}
+[2025-11-22 14:10:10] Experimento #12: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 1, 'f1_score_best': 0.8105975440635012}
+[2025-11-22 14:26:26] Experimento #13: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 1.25, 'f1_score_best': 0.8049569602678569}
+[2025-11-22 14:38:22] Experimento #14: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 1.5, 'f1_score_best': 0.7995066892723403}
+[2025-11-22 14:49:04] Experimento #15: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 1.75, 'f1_score_best': 0.7840427580893683}
+[2025-11-22 14:55:55] Experimento #16: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.025, 'patience': 40, 'epochs': 256, 'factor_balance': 1.85, 'f1_score_best': 0.7707750258872096}
+[2025-11-22 15:08:46] Experimento #17: Config={'capas': [1024, 1024, 1024], 'batch_size': 4, 'learning_rate': 0.0025, 'patience': 40, 'epochs': 256, 'factor_balance': 0.5, 'f1_score_best': 0.8111121312155964}
