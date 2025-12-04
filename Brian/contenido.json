@@ -1,5 +1,6 @@
 {"Config1": {"id": 1, "semilla": 42, "C1": 512, "C2": 128, "DoC1": 0.3, "DoC2": 0.2, "Maxlen": 100, "Batch": 16, "LR": 2e-5, "modelo": "Beto", "F1": 0.8594},
 "Config2": {"id": 2, "semilla": 128, "C1": 4096, "C2": 1024, "DoC1": 0.4, "DoC2": 0.2, "Maxlen": 100, "Batch": 16, "LR": 2e-5, "modelo": "Beto", "F1": 0.8605},
 "Config3": {"id": 3, "semilla": 42, "C1": 512, "C2": 128, "DoC1": 0.3, "DoC2": 0.2, "Maxlen": 100, "Batch": 16, "LR": 2e-5, "modelo": "Betito", "F1": 0.8719},
-"Config4": {"id": 4, "semilla": 42, "C1": 4096, "C2": 1024, "DoC1": 0.3, "DoC2": 0.2, "Maxlen": 100, "Batch": 16, "LR": 2e-5, "modelo": "Betito", "F1": 0.8668}
+"Config4": {"id": 4, "semilla": 33, "C1": 4096, "C2": 1024, "DoC1": 0.3, "DoC2": 0.2, "Maxlen": 100, "Batch": 16, "LR": 2e-5, "modelo": "Betito", "F1": 0.8668},
+"Config5": {"id": 5, "semilla": 42, "C1": 4096, "C2": 1024, "DoC1": 0.3, "DoC2": 0.2, "Maxlen": 100, "Batch": 16, "LR": 2e-5, "modelo": "Betito", "F1": 0.8744}
 }
